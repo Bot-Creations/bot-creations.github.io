@@ -37,3 +37,7 @@ a {
 .Abts_logo {
     border-radius: 20px;
 }
+
+.right {
+    text-align: right;
+}
